@@ -1,6 +1,6 @@
 const MongoClient = require("mongodb").MongoClient;
 
-const uri = "";  //add monodb srv to ur own cluster on mongo atlas
+const uri = "";  //add mongodb srv to ur own cluster on mongo atlas
 
 
 
